@@ -79,7 +79,6 @@ The repository is private because apparently sometimes the best way to demonstra
   <img
     src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/languages-output/languages.svg"
     width="320"
-    height="195"
     alt="Most Used Languages"
   />
 </p>
@@ -123,8 +122,6 @@ The repository is private because apparently sometimes the best way to demonstra
 
 ---
 
-## Connect
-
 <h2>
   Connect
   <a href="YOUR_LINKEDIN_URL">
@@ -134,3 +131,5 @@ The repository is private because apparently sometimes the best way to demonstra
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
   </a>
 </h2>
+
+---
