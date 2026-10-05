@@ -70,29 +70,33 @@ The repository is private because apparently sometimes the best way to demonstra
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=animeshmisra2008&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D"
-    height="150"
-    alt="GitHub streak"
+    src="https://streak-stats.demolab.com?user=animeshmisra2008&theme=github-dark&hide_border=true&border_radius=5&locale=en&mode=daily"
+    width="495"
+    height="195"
+    alt="GitHub Streak"
   />
 
   <img
-    src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/activity-graph-output/activity-graph.svg"
-    height="300"
-    alt="GitHub activity graph"
+    src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/languages-output/languages.svg"
+    width="320"
+    height="195"
+    alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/languages-output/languages.svg"
-    height="150"
-    alt="Top languages"
-  />
-
-  <img
     src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/trophy-output/trophy.svg"
-    height="150"
-    alt="GitHub trophies"
+    width="500"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/activity-graph-output/activity-graph.svg"
+    width="100%"
+    alt="Contribution Graph"
   />
 </p>
 
@@ -121,20 +125,12 @@ The repository is private because apparently sometimes the best way to demonstra
 
 ## Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/animesh-misra-899617409">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="LinkedIn"
-    />
+<h2>
+  Connect
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
   </a>
-
-  <a href="mailto:animeshmisra2008@gmail.com">
-    <img
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Gmail"
-    />
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
   </a>
-</p>
+</h2>
