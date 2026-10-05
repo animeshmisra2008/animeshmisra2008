@@ -39,7 +39,7 @@
 
 ###
 
-<h4 data-importer="text" align="center">TEXT</h4>
+<h4 data-importer="text" align="center">TXT</h4>
 
 ###
 
