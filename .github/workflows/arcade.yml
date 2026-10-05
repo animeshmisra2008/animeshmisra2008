@@ -1,31 +1,31 @@
 name: Generate arcade animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Generate breakout contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'breakout'
 
-
-      - name: push breakout-contribution-graph.svg to the output branch
+      - name: Push breakout contribution graph to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output

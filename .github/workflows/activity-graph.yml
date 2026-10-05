@@ -1,19 +1,20 @@
 name: Update Activity Graph
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   build:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
 
     steps:

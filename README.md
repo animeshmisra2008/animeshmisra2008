@@ -51,9 +51,12 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=animeshmisra2008&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/trophy-output/trophy.svg?theme=radical&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+  <img src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+
+  <img src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/languages-output/languages.svg" height="150" alt="languages graph"  />
+
+  <img src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -65,9 +68,18 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/pacman-output/breakout-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/pacman-output/breakout-contribution-graph.svg"
+  >
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/pacman-output/breakout-contribution-graph.svg"
+  >
 </picture>
 
 ###
