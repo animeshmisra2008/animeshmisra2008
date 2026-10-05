@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Animesh</h1>
 
 <p align="center">
-  <code>Average CSE Student</code>
+  <code>CSE Student</code>
   · Building things
   · Breaking things
   · Occasionally fixing them
@@ -34,13 +34,13 @@ A Python-based tool for scraping and organizing HackerRank data.
 
 ### [Student Analytics](https://github.com/Horrid-12/Student-Analytics)
 
-A student analytics project built with a focus on working with and presenting student data.
+A university project focused on student data and analytics.
 
 ### MIT Courtside Automation
 
 An automation project for handling the MIT-WPU Courtside booking workflow.
 
-The repository is private because apparently sometimes the best way to demonstrate automation is to not hand the entire automation to the internet.
+The repository is kept private for obvious reasons.
 
 ---
 
@@ -76,6 +76,7 @@ The repository is private because apparently sometimes the best way to demonstra
     alt="GitHub Streak"
   />
 
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/animeshmisra2008/animeshmisra2008/refs/heads/languages-output/languages.svg"
     width="320"
@@ -101,7 +102,7 @@ The repository is private because apparently sometimes the best way to demonstra
 
 ---
 
-## Contribution Graph
+## Overview
 
 <p align="center">
   <picture>
@@ -125,11 +126,9 @@ The repository is private because apparently sometimes the best way to demonstra
 <h2>
   Connect
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 </h2>
-
----
