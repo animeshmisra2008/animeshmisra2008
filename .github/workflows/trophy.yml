@@ -23,7 +23,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
-          token: ${{ secrets.UI_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           theme: radical
           max-cols: 3
           max-rows: 1
@@ -38,4 +38,4 @@ jobs:
           target_branch: trophy-output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.UI_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

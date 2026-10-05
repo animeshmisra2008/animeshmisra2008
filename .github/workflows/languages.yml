@@ -24,7 +24,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false
           path: dist/languages.svg
-          token: ${{ secrets.UI_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
 
       - name: push languages.svg to the output branch
@@ -33,4 +33,4 @@ jobs:
           target_branch: languages-output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.UI_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
