@@ -42,6 +42,14 @@ An automation project for handling the MIT-WPU Courtside booking workflow.
 
 The repository is kept private for obvious reasons.
 
+### [Trackpad Stylus Tools](https://github.com/animeshmisra2008/Trackpad-Stylus-Tools)
+
+A collection of tools for trackpad and stylus workflows.
+
+### [Saathi — Computer Assistant](https://github.com/animeshmisra2008/Saathi-Computer-Assistant)
+
+A voice-first Windows guide that helps people complete everyday computer tasks with clear, step-by-step instructions.
+
 ---
 
 ## Tech Stack
